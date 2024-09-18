@@ -22,7 +22,7 @@ To read from the terminal you need to define a variable that will hold the
 input data.
 
 ```cpp
-std::cin >> youVariable;
+std::cin >> yourVariable;
 ```
 
 # Error Output

@@ -5,7 +5,7 @@
 To write a programm in C++ you should know how the compile process works.
 
 1. Write a source code file (end with *.cpp*)
-2. Compile the source code to and *.obj* / *.o* file
+2. Compile the source code to *.obj* / *.o* file
 3. Link the object files to create an executable file
 
 Step 2 and Step 3 can be combinded.\
